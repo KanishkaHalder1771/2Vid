@@ -6,6 +6,8 @@ The Repository contains code for the project, **2Vid : Anything to Video in 2 Mi
 
 **[LIVE DEMO](https://www.youtube.com/watch?v=G3bLHw_v1Wo)** 
 
+**[PITCH VIDEO](https://www.youtube.com/watch?v=Eztiz8eqhJk)** 
+
 [**PITCH DECK**](https://docs.google.com/presentation/d/1SRl3G7AIyInN25L9SUrRlYH8J-2m4H26ehlXtSbG2eQ/edit?usp=sharing)
 
 **[FOUNDANCE PROFILE](https://app.foundance.org/projects/10267)**
@@ -24,7 +26,7 @@ Welcome to 2Vid, a trailblazing SAAS company revolutionizing video creation for 
 
 🎯 2Vid caters to diverse industries—marketing, advertising, e-learning, and social media. Elevate your online presence, boost engagement, and effectively communicate your message with our solution.
 
-💡 Unlock your content's true potential with [Company Name]'s groundbreaking SAAS tool. Experience the power of generative AI in video creation. Together, we'll redefine how brands engage with audiences.
+💡 Unlock your content's true potential with 2Vid's groundbreaking SAAS tool. Experience the power of generative AI in video creation. Together, we'll redefine how brands engage with audiences.
 
 🌐 Visit our website to explore endless possibilities and start your video creation revolution. Connect with us for updates, inspiration, and industry discussions!
 
